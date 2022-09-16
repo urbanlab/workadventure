@@ -3450,7 +3450,7 @@
         {
          "columns":13,
          "firstgid":1,
-         "image":"tuiles nature office\/wa_tilesets_ag.png",
+         "image":"tuiles-office\/wa_tilesets_ag.png",
          "imageheight":1258,
          "imagewidth":442,
          "margin":1,
@@ -3463,7 +3463,7 @@
         {
          "columns":12,
          "firstgid":482,
-         "image":"tuiles nature office\/wa-escaliers.png",
+         "image":"tuiles-office\/wa-escaliers.png",
          "imageheight":340,
          "imagewidth":408,
          "margin":1,
@@ -3476,7 +3476,7 @@
         {
          "columns":40,
          "firstgid":602,
-         "image":"tuiles nature office\/walls_floors_edited.png",
+         "image":"tuiles-office\/walls_floors_edited.png",
          "imageheight":1972,
          "imagewidth":1360,
          "margin":1,
@@ -3499,7 +3499,7 @@
         {
          "columns":10,
          "firstgid":2922,
-         "image":"tuiles nature office\/wa-mobilier1.png",
+         "image":"tuiles-office\/wa-mobilier1.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -3512,7 +3512,7 @@
         {
          "columns":10,
          "firstgid":3022,
-         "image":"tuiles nature office\/wa-mobilier2.png",
+         "image":"tuiles-office\/wa-mobilier2.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -3525,7 +3525,7 @@
         {
          "columns":11,
          "firstgid":3122,
-         "image":"tuiles nature office\/wa-tables-chaise-2.png",
+         "image":"tuiles-office\/wa-tables-chaise-2.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -3538,7 +3538,7 @@
         {
          "columns":11,
          "firstgid":3243,
-         "image":"tuiles nature office\/wa-tables-chaises.png",
+         "image":"tuiles-office\/wa-tables-chaises.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -3551,7 +3551,7 @@
         {
          "columns":6,
          "firstgid":3364,
-         "image":"tuiles nature office\/watileset.png",
+         "image":"tuiles-office\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
@@ -3574,7 +3574,7 @@
         {
          "columns":6,
          "firstgid":3460,
-         "image":"tuiles nature office\/watileset.png",
+         "image":"tuiles-office\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
@@ -3587,7 +3587,7 @@
         {
          "columns":16,
          "firstgid":3556,
-         "image":"tuiles nature office\/Celiana-interiors-3.png",
+         "image":"tuiles-office\/Celiana-interiors-3.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3600,7 +3600,7 @@
         {
          "columns":6,
          "firstgid":3812,
-         "image":"tuiles nature office\/OGA-tables-white.png",
+         "image":"tuiles-office\/OGA-tables-white.png",
          "imageheight":170,
          "imagewidth":204,
          "margin":1,
@@ -3613,7 +3613,7 @@
         {
          "columns":4,
          "firstgid":3842,
-         "image":"tuiles nature office\/Celiana-interiors-food.png",
+         "image":"tuiles-office\/Celiana-interiors-food.png",
          "imageheight":204,
          "imagewidth":136,
          "margin":1,
@@ -3626,7 +3626,7 @@
         {
          "columns":4,
          "firstgid":3866,
-         "image":"tuiles nature office\/wa-bureaux-blancs.png",
+         "image":"tuiles-office\/wa-bureaux-blancs.png",
          "imageheight":136,
          "imagewidth":136,
          "margin":1,
@@ -3639,7 +3639,7 @@
         {
          "columns":16,
          "firstgid":3882,
-         "image":"tuiles nature office\/Celiana-interiors-2.png",
+         "image":"tuiles-office\/Celiana-interiors-2.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3652,7 +3652,7 @@
         {
          "columns":18,
          "firstgid":4138,
-         "image":"tuiles nature office\/wa_tilesets_ag_v2.png",
+         "image":"tuiles-office\/wa_tilesets_ag_v2.png",
          "imageheight":986,
          "imagewidth":612,
          "margin":1,
@@ -3665,7 +3665,7 @@
         {
          "columns":6,
          "firstgid":4660,
-         "image":"tuiles nature office\/OGA-tables-white.png",
+         "image":"tuiles-office\/OGA-tables-white.png",
          "imageheight":170,
          "imagewidth":204,
          "margin":1,
@@ -3678,7 +3678,7 @@
         {
          "columns":32,
          "firstgid":4690,
-         "image":"tuiles nature office\/LPC-objects-plants-fish.png",
+         "image":"tuiles-office\/LPC-objects-plants-fish.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3691,7 +3691,7 @@
         {
          "columns":32,
          "firstgid":5714,
-         "image":"tuiles nature office\/LPC-terrains.png",
+         "image":"tuiles-office\/LPC-terrains.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3835,7 +3835,7 @@
         {
          "columns":32,
          "firstgid":6738,
-         "image":"tuiles nature office\/LPC-Interior.png",
+         "image":"tuiles-office\/LPC-Interior.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3848,7 +3848,7 @@
         {
          "columns":6,
          "firstgid":7762,
-         "image":"tuiles nature office\/OGA-tables-white.png",
+         "image":"tuiles-office\/OGA-tables-white.png",
          "imageheight":170,
          "imagewidth":204,
          "margin":1,
@@ -3861,7 +3861,7 @@
         {
          "columns":13,
          "firstgid":7942,
-         "image":"tuiles nature office\/WA_User_Interface.png",
+         "image":"tuiles-office\/WA_User_Interface.png",
          "imageheight":714,
          "imagewidth":442,
          "margin":1,
@@ -3874,7 +3874,7 @@
         {
          "columns":6,
          "firstgid":8215,
-         "image":"tuiles nature office\/watileset.png",
+         "image":"tuiles-office\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,

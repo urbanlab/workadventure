@@ -2922,6 +2922,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":47,
          "id":22,
+         "locked":true,
          "name":"objects-up-1",
          "opacity":1,
          "type":"tilelayer",
@@ -2930,7 +2931,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":52,
+ "nextlayerid":54,
  "nextobjectid":11,
  "orientation":"orthogonal",
  "properties":[
