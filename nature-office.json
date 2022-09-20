@@ -200,7 +200,7 @@
             3364, 3364, 3364, 3364, 3364, 3364, 0, 0, 8601, 8601, 8601, 8601, 8601, 0, 0, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 0, 0, 3364, 3364, 3364, 3364, 0, 0, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601,
             3364, 3364, 3364, 3364, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601,
             3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601,
-            3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601,
+            3364, 3268, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601,
             3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601, 8601,
             3364, 0, 3364, 3364, 3364, 0, 0, 0, 3364, 3364, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601,
             3364, 0, 3364, 3364, 3364, 0, 0, 0, 3364, 3364, 3364, 0, 0, 0, 0, 0, 0, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 0, 0, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 3364, 0, 0, 0, 0, 3364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8601,
@@ -3219,7 +3219,7 @@
         {
          "columns":13,
          "firstgid":1,
-         "image":"src\/assets\/wa_tilesets_ag.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa_tilesets_ag.png",
          "imageheight":1258,
          "imagewidth":442,
          "margin":1,
@@ -3232,7 +3232,7 @@
         {
          "columns":12,
          "firstgid":482,
-         "image":"src\/assets\/wa-escaliers.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-escaliers.png",
          "imageheight":340,
          "imagewidth":408,
          "margin":1,
@@ -3245,7 +3245,7 @@
         {
          "columns":40,
          "firstgid":602,
-         "image":"src\/assets\/walls_floors_edited.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/walls_floors_edited.png",
          "imageheight":1972,
          "imagewidth":1360,
          "margin":1,
@@ -3268,7 +3268,7 @@
         {
          "columns":10,
          "firstgid":2922,
-         "image":"src\/assets\/wa-mobilier1.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-mobilier1.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -3281,7 +3281,7 @@
         {
          "columns":10,
          "firstgid":3022,
-         "image":"src\/assets\/wa-mobilier2.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-mobilier2.png",
          "imageheight":340,
          "imagewidth":340,
          "margin":1,
@@ -3294,7 +3294,7 @@
         {
          "columns":11,
          "firstgid":3122,
-         "image":"src\/assets\/wa-tables-chaise-2.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-tables-chaise-2.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -3307,7 +3307,7 @@
         {
          "columns":11,
          "firstgid":3243,
-         "image":"src\/assets\/wa-tables-chaises.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-tables-chaises.png",
          "imageheight":374,
          "imagewidth":374,
          "margin":1,
@@ -3320,7 +3320,7 @@
         {
          "columns":6,
          "firstgid":3364,
-         "image":"src\/assets\/watileset.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
@@ -3343,7 +3343,7 @@
         {
          "columns":16,
          "firstgid":3460,
-         "image":"src\/assets\/Celiana-interiors-1.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/Celiana-interiors-1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3356,7 +3356,7 @@
         {
          "columns":16,
          "firstgid":3716,
-         "image":"src\/assets\/Celiana-interiors-3.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/Celiana-interiors-3.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3369,7 +3369,7 @@
         {
          "columns":16,
          "firstgid":3972,
-         "image":"src\/assets\/Celiana-interiors-4.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/Celiana-interiors-4.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3382,7 +3382,7 @@
         {
          "columns":4,
          "firstgid":4228,
-         "image":"src\/assets\/Celiana-interiors-food.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/Celiana-interiors-food.png",
          "imageheight":204,
          "imagewidth":136,
          "margin":1,
@@ -3395,7 +3395,7 @@
         {
          "columns":4,
          "firstgid":4252,
-         "image":"src\/assets\/wa-bureaux-blancs.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa-bureaux-blancs.png",
          "imageheight":136,
          "imagewidth":136,
          "margin":1,
@@ -3408,7 +3408,7 @@
         {
          "columns":16,
          "firstgid":4268,
-         "image":"src\/assets\/Celiana-interiors-2.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/Celiana-interiors-2.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -3421,7 +3421,7 @@
         {
          "columns":18,
          "firstgid":4524,
-         "image":"src\/assets\/wa_tilesets_ag_v2.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/wa_tilesets_ag_v2.png",
          "imageheight":986,
          "imagewidth":612,
          "margin":1,
@@ -3434,7 +3434,7 @@
         {
          "columns":6,
          "firstgid":5046,
-         "image":"src\/assets\/OGA-tables-white.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/OGA-tables-white.png",
          "imageheight":170,
          "imagewidth":204,
          "margin":1,
@@ -3447,7 +3447,7 @@
         {
          "columns":32,
          "firstgid":5076,
-         "image":"src\/assets\/LPC-objects-plants-fish.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/LPC-objects-plants-fish.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3460,7 +3460,7 @@
         {
          "columns":32,
          "firstgid":6100,
-         "image":"src\/assets\/LPC-terrains.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/LPC-terrains.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3604,7 +3604,7 @@
         {
          "columns":32,
          "firstgid":7124,
-         "image":"src\/assets\/LPC-Interior.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/LPC-Interior.png",
          "imageheight":1088,
          "imagewidth":1088,
          "margin":1,
@@ -3617,7 +3617,7 @@
         {
          "columns":9,
          "firstgid":8148,
-         "image":"src\/assets\/baie-vitree-V4-grass.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/baie-vitree-V4-grass.png",
          "imageheight":680,
          "imagewidth":306,
          "margin":1,
@@ -3630,7 +3630,7 @@
         {
          "columns":13,
          "firstgid":8328,
-         "image":"src\/assets\/WA_User_Interface.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/WA_User_Interface.png",
          "imageheight":714,
          "imagewidth":442,
          "margin":1,
@@ -3643,7 +3643,7 @@
         {
          "columns":6,
          "firstgid":8601,
-         "image":"src\/assets\/watileset.png",
+         "image":"..\/workadventure-gh-pages - Copie\/src\/assets\/watileset.png",
          "imageheight":544,
          "imagewidth":204,
          "margin":1,
@@ -3665,7 +3665,7 @@
         }, 
         {
          "firstgid":8697,
-         "source":"tuiles-office\/ERASME.tsx"
+         "source":"..\/workadventure-gh-pages - Copie\/tuiles-office\/ERASME.tsx"
         }],
  "tilewidth":32,
  "type":"map",
