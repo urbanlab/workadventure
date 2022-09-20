@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/lucileinthesky.com\/"
+                 "value":"https:\/\/www.erasme.org\/-Accueil-Erasme-"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -527,24 +527,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"jistiRoom",
                          "type":"string",
-                         "value":"SpiderSkull"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Spider Skull"
+                         "value":"my-meet-room"
                         }],
                  "type":"tilelayer",
                  "visible":true,
