@@ -862,7 +862,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/Erasme_coin_detente"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeCafeDetente"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -941,7 +941,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeSalleAManger"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1020,7 +1020,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeB4"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1099,7 +1099,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeB3"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1178,7 +1178,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeB2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1257,7 +1257,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeB1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2047,7 +2047,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeH2"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -2126,7 +2126,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/erasme_workadventure_1"
+                         "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeH1"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
