@@ -942,21 +942,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/WorkAdventureErasmeSalleAManger"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1337,21 +1322,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/incubationcentreentraindementmanagementmetro2022"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1416,21 +1386,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/MPTRancy.Enracinons"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1495,21 +1450,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/suivicollegeeco-citoyen"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1574,21 +1514,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/Pointlarbret\u00e9moin"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1652,22 +1577,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"https:\/\/meet.jit.si\/incubationcentreentraindementmanagementmetro2022"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
+                         "value":"https:\/\/meet.jit.si\/EscapeGameDMOU"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1732,21 +1642,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"http:\/\/meet.jit.si\/Canographia"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Beyond Trust"
                         }],
                  "type":"tilelayer",
                  "visible":true,
