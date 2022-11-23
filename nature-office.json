@@ -244,7 +244,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Biblioth%C3%A8que"
+                 "value":"https:\/\/erasme.notion.site\/b05559db8980469eaf0c7110c289eab2?v=59625cb35bcc43c29fd2a2fe0ce669a7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -308,7 +308,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Veille_cr%C3%A9ative"
+                 "value":"https:\/\/erasme.notion.site\/Veille-incubation-60c7ab1070334482959dafc00f270ba5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -372,7 +372,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Annuaire"
+                 "value":"https:\/\/erasme.notion.site\/300d4598aee64d3480a263f24a7fc158?v=541a9e7886a04b2fb1f2939302daa138"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -436,7 +436,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fr.wikipedia.org\/wiki\/Outil"
+                 "value":"https:\/\/erasme.notion.site\/e408e3bef70744b9b15465e63ae57bd4?v=683a9accab734d018922f99323d34158"
                 }],
          "type":"tilelayer",
          "visible":true,
