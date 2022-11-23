@@ -2056,21 +2056,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"https:\/\/meet.jit.si\/Erasme_incubation"
-                        }, 
-                        {
-                         "name":"jitsiRoomAdminTag",
-                         "type":"string",
-                         "value":"speaker"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"meetingRoomLabel",
-                         "type":"string",
-                         "value":"Home"
                         }],
                  "type":"tilelayer",
                  "visible":true,
